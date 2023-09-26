@@ -1,1 +1,1 @@
-# ITMO_mathematical_statistics
+# ITMO_Mathematical_Statistics
